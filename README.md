@@ -1,6 +1,6 @@
 # URL Shrinker
 
-[![N|Solid](/image/readme_image.png)]()
+[![N|Solid](/images/readme_image.png)]()
 
 You can use the tool to see the real-time value of your Crypto-coin.
 
